@@ -87,6 +87,3 @@ NEW: /home/user/documents/new_file.txt
 - For large directories, hash calculation may take some time.
 
 
-## Author
-
-[Mardan111](https://github.com/Mardan111)
