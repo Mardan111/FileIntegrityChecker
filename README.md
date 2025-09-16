@@ -86,4 +86,12 @@ NEW: /home/user/documents/new_file.txt
 - The baseline file (`file_hashes_baseline.json`) is created in the current working directory.
 - For large directories, hash calculation may take some time.
 
+## Output
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/28d71ed5-83c6-417c-b7fd-beb5e9ef4af4" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/24fae27f-f322-4ef6-bc80-8f1ef7392748" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/78b2d6a6-b190-440a-b036-1d5659ea652b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9df3382a-0847-4347-9e2d-4e84c2f10b02" />
