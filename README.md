@@ -12,6 +12,8 @@
 
 *MENTOR* : NEELA SANTOSH KUMAR
 
+## Description
+
 This repository contains a Python script `fileIntegrityChecker.py` for monitoring the integrity of files in a specified directory. The script helps identify unauthorized modifications, deletions, or additions to files by generating and comparing cryptographic hashes.
 
 ## Features
